@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hola, Soy José Argüello 👋
+Soy **Lic. En Análisis de Sistemas y Desarrollador** JavaScript y PHP **FullStack**, con varios años de Experiencia en desarrollo
+
+Actualmente trabajo con las siguientes tecnologías:
+
+- Vue.Js
+- React.js
+- ReactNative
 
 <!--
 **josecienty/josecienty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
