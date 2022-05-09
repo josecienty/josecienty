@@ -1,7 +1,9 @@
 <p align="center" width="300">
-  ### Hola, Soy José Argüello 👋
-  Soy **Lic. En Análisis de Sistemas y Desarrollador** JavaScript y PHP **FullStack**, con varios años de Experiencia en desarrollo
+   <h3 align="center">
+     Hola, Soy José Argüello 👋👨🏻‍💻
+  </h3>
 </p>
+ Soy **Lic. En Análisis de Sistemas y Desarrollador** JavaScript y PHP **FullStack**, con varios años de Experiencia en desarrollo
 
 Actualmente trabajo con las siguientes tecnologías:
 
