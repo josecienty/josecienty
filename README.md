@@ -4,7 +4,7 @@
   </h3>
 </p>
 <p align="center">
- Soy **Lic. En Análisis de Sistemas y Desarrollador** JavaScript y PHP **FullStack**,<br/> con varios años de Experiencia en desarrollo
+   Soy <strong>Lic. En Análisis de Sistemas y Desarrollador</strong> JavaScript y PHP <strong>FullStack</strong><br/> con varios años de Experiencia en desarrollo
 </p>
 
 
