@@ -6,6 +6,9 @@ Actualmente trabajo con las siguientes tecnologías:
 - Vue.Js
 - React.js
 - ReactNative
+- Laravel
+
+También tengo experiencia en desarrollo para aplicaciones de escritorio, web y movil utilizando **Java**
 
 <!--
 **josecienty/josecienty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
