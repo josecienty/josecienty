@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="URL_DE_TU_IMAGEN" alt="Imagen de perfil" width="200" />
+  <img src="https://avatars.githubusercontent.com/u/23426605?v=4" alt="Imagen de perfil" width="200" />
 </p>
 
 <p align="center">
