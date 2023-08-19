@@ -3,8 +3,9 @@
      Hola 👋, Soy José Argüello👨🏻‍💻
   </h3>
 </p>
+
 <p align="center">
-   Soy <strong>Lic. En Análisis de Sistemas y Desarrollador</strong> JavaScript y PHP <strong>FullStack</strong><br/> con varios años de experiencia en distintos tipos de proyectos.
+   ¡Hola!, soy <strong>Lic. En Análisis de Sistemas y Desarrollador</strong> JavaScript y PHP <strong>FullStack</strong><br/> con varios años de experiencia en diferentes proyectos, con conocimiento extendido en bases de datos relacionales y no relacionales.
    </p>
 
 ## Sobre Mi
