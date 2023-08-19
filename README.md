@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/23426605?v=4" alt="Imagen de perfil" width="150" style="border-radius: 50%;" />
-</p>
-
-<p align="center">
    <h3 align="center">
      ¡Hola 👋, Soy José Argüello👨🏻‍💻!
   </h3>
