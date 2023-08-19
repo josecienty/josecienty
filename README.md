@@ -1,64 +1,58 @@
-<p align="center" width="300">
+<p align="center">
+  <img src="URL_DE_TU_IMAGEN" alt="Imagen de perfil" width="200" />
+</p>
+
+<p align="center">
    <h3 align="center">
-     Hola 👋, Soy José Argüello👨🏻‍💻
+     ¡Hola 👋, Soy José Argüello👨🏻‍💻!
   </h3>
 </p>
 
 <p align="center">
-   Soy una persona con ganas de superarse, <strong>Lic. En Análisis de Sistemas y Desarrollador</strong> JavaScript y PHP <strong>FullStack</strong><br/> con varios años de experiencia en diferentes proyectos, con conocimiento extendido en bases de datos relacionales y no relacionales.
-   </p>
+   Soy un apasionado <strong>Licenciado en Análisis de Sistemas y Desarrollador</strong> FullStack con experiencia en JavaScript, PHP y más. ¡Bienvenido a mi perfil de GitHub!
+</p>
 
-## Sobre Mi
- * 🌍  Residencia en Paraguay 🇵🇾
- * ✉️  Contacto 👉 [argelloestigarribia.josantonio@gmail.com](mailto:argelloestigarribia.josantonio@gmail.com)
- * 📸  Instagram [@josecienty](https://www.instagram.com/josecienty/)
+<p align="center">
+   <a href="mailto:argelloestigarribia.josantonio@gmail.com">✉️ Contacto</a> | <a href="https://www.instagram.com/josecienty/">📸 Instagram</a>
+</p>
 
-### 🤓  Actualmente desarrollo con:
-- Vue.Js
+## Acerca de Mí
+
+🌍 ¡Hola! Soy José Argüello, actualmente con residencia en Paraguay 🇵🇾. Soy un entusiasta del desarrollo de software con experiencia en una variedad de tecnologías.
+
+## Habilidades
+
+Actualmente desarrollo con:
+
+- Vue.js
 - React.js
-- ReactNative
+- React Native
 - Laravel
-- Node js
+- Node.js
 - Django
 - Electron JS
 
-#### Pero tengo experiencia en
-<p align="center">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.kotlin.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
-<a href="https://www.pyton.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.adobe.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-</p>
+También tengo experiencia en:
 
+- JavaScript
+- Java
+- TypeScript
+- PHP
+- HTML5
+- CSS3
+- Sass
+- Tailwind CSS
+- Bootstrap
+- MySQL
+- PostgreSQL
+- Photoshop
+- Figma
+- Kotlin
+- Python
+- Illustrator
 
-👽  Experiencia en desarrollo de escritorio y movil utilizando **Java**
+## Experiencia Extra
 
-<!--
-**josecienty/josecienty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Además de mis habilidades de desarrollo, también tengo experiencia en el desarrollo de aplicaciones de escritorio y móviles utilizando Java.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¡Gracias por visitar mi perfil de GitHub! Si estás interesado en colaborar o simplemente quieres charlar sobre tecnología, no dudes en ponerte en [contacto](mailto:argelloestigarribia.josantonio@gmail.com). ¡Espero que disfrutes explorando mis proyectos!
