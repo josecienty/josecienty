@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/23426605?v=4" alt="Imagen de perfil" width="200" />
+  <img src="https://avatars.githubusercontent.com/u/23426605?v=4" alt="Imagen de perfil" width="150" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-   Soy un apasionado <strong>Licenciado en Análisis de Sistemas y Desarrollador</strong> FullStack con experiencia en JavaScript, PHP y más. ¡Bienvenido a mi perfil de GitHub!
+   Soy un apasionado 👨‍💼 <strong>Licenciado en Análisis de Sistemas y Desarrollador</strong> FullStack con experiencia en JavaScript, PHP y más. ¡Bienvenido a mi perfil de GitHub!
 </p>
 
 <p align="center">
@@ -24,32 +24,14 @@
 
 Actualmente desarrollo con:
 
-- Vue.js
-- React.js
-- React Native
-- Laravel
-- Node.js
-- Django
-- Electron JS
+🚀 Vue.js | React.js | React Native | Laravel | Node.js | Django | Electron JS
 
 También tengo experiencia en:
 
-- JavaScript
-- Java
-- TypeScript
-- PHP
-- HTML5
-- CSS3
-- Sass
-- Tailwind CSS
-- Bootstrap
-- MySQL
-- PostgreSQL
-- Photoshop
-- Figma
-- Kotlin
-- Python
-- Illustrator
+💻 JavaScript | Java | TypeScript | PHP | HTML5 | CSS3 | Sass | Tailwind CSS | Bootstrap
+🗄️ MySQL | PostgreSQL
+🎨 Photoshop | Figma | Illustrator
+🤖 Kotlin | Python
 
 ## Experiencia Extra
 
