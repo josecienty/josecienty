@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-   ¡Hola!, soy <strong>Lic. En Análisis de Sistemas y Desarrollador</strong> JavaScript y PHP <strong>FullStack</strong><br/> con varios años de experiencia en diferentes proyectos, con conocimiento extendido en bases de datos relacionales y no relacionales.
+   Soy una persona con ganas de superarse, <strong>Lic. En Análisis de Sistemas y Desarrollador</strong> JavaScript y PHP <strong>FullStack</strong><br/> con varios años de experiencia en diferentes proyectos, con conocimiento extendido en bases de datos relacionales y no relacionales.
    </p>
 
 ## Sobre Mi
