@@ -18,6 +18,9 @@
 - React.js
 - ReactNative
 - Laravel
+- Node js
+- Django
+- Electron JS
 
 #### Pero tengo experiencia en
 <p align="center">
