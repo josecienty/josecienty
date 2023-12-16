@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-   Soy un apasionado por el desarrollo web 👨‍💼 <strong>Licenciado en Análisis de Sistemas y Desarrollador</strong> FullStack con experiencia en JavaScript, PHP y más.<br/> ¡Bienvenido a mi perfil de GitHub!
+   Soy un apasionado por el desarrollo web 👨‍💼<br/> <strong>Licenciado en Análisis de Sistemas y Desarrollador</strong> FullStack.<br/> ¡Bienvenido a mi perfil de GitHub!
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## Acerca de Mí
 
-🌍 ¡Hola! Soy José Argüello, actualmente con residencia en Paraguay 🇵🇾. Soy un entusiasta del desarrollo de software con experiencia en una variedad de tecnologías.
+🌍 <strong>¡Un programador Paraguayo 🇵🇾!</strong>. Soy un entusiasta del desarrollo de software con experiencia en una variedad de tecnologías.
 
 ## Habilidades
 
