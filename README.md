@@ -1,3 +1,4 @@
+![I'm](./img/banner.png)
 <p align="center">
    <h3 align="center">
      ¡Hola 👋, Soy José Argüello👨🏻‍💻!
@@ -5,7 +6,7 @@
 </p>
 
 <p align="center">
-   Soy un apasionado 👨‍💼 <strong>Licenciado en Análisis de Sistemas y Desarrollador</strong> FullStack con experiencia en JavaScript, PHP y más. ¡Bienvenido a mi perfil de GitHub!
+   Soy un apasionado por el desarrollo web 👨‍💼 <strong>Licenciado en Análisis de Sistemas y Desarrollador</strong> FullStack con experiencia en JavaScript, PHP y más.<br/> ¡Bienvenido a mi perfil de GitHub!
 </p>
 
 <p align="center">
