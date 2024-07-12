@@ -10,28 +10,31 @@
 </p>
 
 <p align="center">
-   <a href="mailto:argelloestigarribia.josantonio@gmail.com">✉️ Contacto</a> | <a href="https://www.instagram.com/josecienty/">📸 Instagram</a>
+   <a href="mailto:argelloestigarribia.josantonio@gmail.com">✉️ Contacto</a> | <a target="_blank" href="https://www.instagram.com/josecienty/">📸 Instagram</a> | <a target="_blank" href="https://www.linkedin.com/in/josecienty/">🔗 Linkedin</a>  
 </p>
 
 ## Acerca de Mí
 
-🌍 <strong>¡Un programador Paraguayo 🇵🇾!</strong>. Soy un entusiasta del desarrollo de software con experiencia en una variedad de tecnologías.
+🌍 <strong>¡Un desarrollador de Paraguay 🇵🇾!</strong>. Soy un entusiasta del desarrollo de software con experiencia en una variedad de tecnologías. Con dedicación especial a cada proyecto realizado
 
 ## Habilidades
 
+PHP | CSS | HTML | JS | TS | SQL | JAVA | PYTHON | KOTLIN
+
 Actualmente desarrollo con:
 
-🚀 Vue.js | React.js | React Native | Laravel | Node.js | Django | Electron JS
+🚀 Vue.js | React.js | React Native | Laravel | Slim | Symfony | Node.js | Django | Electron JS | Astro  
 
-También tengo experiencia en:
+Pero desarrollo también con
 
-💻 JavaScript | Java | TypeScript | PHP | HTML5 | CSS3 | Sass | Tailwind CSS | Bootstrap
-🗄️ MySQL | PostgreSQL
-🎨 Photoshop | Figma | Illustrator
-🤖 Kotlin | Python
+Bootstrap | Tailwind CSS | 
 
-## Experiencia Extra
+🗄️ Y en bases de datos
 
-Además de mis habilidades de desarrollo, también tengo experiencia en el desarrollo de aplicaciones de escritorio y móviles utilizando Java.
+MySQL | MariaDB | PosgresSQL | IBM DB2
 
-¡Gracias por visitar mi perfil de GitHub! Si estás interesado en colaborar o simplemente quieres charlar sobre tecnología, no dudes en ponerte en [contacto](mailto:argelloestigarribia.josantonio@gmail.com). ¡Espero que disfrutes explorando mis proyectos!
+A parte de eso tengo habilidades y experiencias comprobables en diseño y edición de elementos multimedios (Audio, Video y Foto).
+
+## ¡Gracias por visitar mi perfil de GitHub! 
+
+Si estás interesado en colaborar o simplemente quieres charlar sobre tecnología, no dudes en ponerte en [contacto](mailto:argelloestigarribia.josantonio@gmail.com). ¡Espero que disfrutes explorando mis proyectos!
