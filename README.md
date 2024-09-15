@@ -1,4 +1,3 @@
-![I'm](./img/banner.png)
 <p align="center">
    <h3 align="center">
      ¡Hola 👋, Soy José Argüello👨🏻‍💻!
