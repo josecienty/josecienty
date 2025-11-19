@@ -14,7 +14,7 @@
 
 ## Acerca de Mí
 
-🌍 <strong>¡Un desarrollador de Paraguay 🇵🇾!</strong>. Soy un entusiasta del desarrollo de software con experiencia en una variedad de tecnologías. Con dedicación especial a cada proyecto realizado
+🌍 <strong>¡Un desarrollador de Paraguay 🇵🇾!</strong>. Soy un entusiasta del desarrollo de software con experiencia en una variedad de tecnologías. Con dedicación especial a cada proyecto realizado.
 
 ## Habilidades
 
