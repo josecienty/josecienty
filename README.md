@@ -6,7 +6,7 @@
 
 <p align="center">
    Soy un apasionado por el desarrollo web 👨‍💼<br/> <strong>Licenciado en Análisis de Sistemas y Desarrollador</strong> FullStack.<br/> ¡Bienvenido a mi perfil de GitHub!
-</p>
+</p> 
 
 <p align="center">
    <a href="mailto:argelloestigarribia.josantonio@gmail.com">✉️ Contacto</a> | <a target="_blank" href="https://www.instagram.com/josecienty/">📸 Instagram</a> | <a target="_blank" href="https://www.linkedin.com/in/josecienty/">🔗 Linkedin</a>  
